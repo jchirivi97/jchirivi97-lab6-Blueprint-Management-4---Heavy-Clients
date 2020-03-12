@@ -66,7 +66,7 @@ var app = (function () {
         context.lineTo(event.pageX - parseInt(offset.left), event.pageY - parseInt(offset.top));
         lastpointY = event.pageY - parseInt(offset.top);
         lastpointX = event.pageX - parseInt(offset.left);
-        alert("ultimos:" + lastpointY+ " , " + lastpointX);
+        context.stroke();
 
     }
 
