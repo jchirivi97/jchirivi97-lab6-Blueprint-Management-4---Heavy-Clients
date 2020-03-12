@@ -20,4 +20,22 @@ Resultados:
 ![Captura](https://user-images.githubusercontent.com/48265107/76494513-05034000-6403-11ea-9fdf-b019b1d30a9c.JPG)
 
 
+Agregue lo que se necesita en sus módulos para que cuando se capturen nuevos puntos en el lienzo abierto (si no se ha seleccionado un lienzo, no se debe hacer nada):
+El punto se agrega al final de la secuencia de puntos en el lienzo actual (solo en la memoria de la aplicación, ¡NO INCLUSO EN LA API!).
+El dibujo está repintado.
+
+Codigo:
+![Capture](https://user-images.githubusercontent.com/48265107/76530139-4b778f80-6441-11ea-832d-51a2e44a128e.PNG)
+
+![Capture](https://user-images.githubusercontent.com/48265107/76530204-6518d700-6441-11ea-8313-b24fe6301622.PNG)
+
+Resultado:
+
+![Capture](https://user-images.githubusercontent.com/48265107/76530272-7cf05b00-6441-11ea-8a87-15c871debac7.PNG)
+
+
+
+
+
+
 
